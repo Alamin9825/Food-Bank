@@ -142,3 +142,13 @@ display: flex;
     padding-left: 10px;
     margin-right: 20px;
 }
+
+.form{
+    color: white; 
+    background-image: linear-gradient(red, tomato);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
